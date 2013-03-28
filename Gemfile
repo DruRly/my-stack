@@ -7,7 +7,11 @@ gem 'pg'
 
 gem 'sidekiq'
 
+gem 'haml-rails'
+
 gem 'vcr'
+
+gem 'foreman'
 
 # Gems used only for assets and not required
 # in production environments by default.

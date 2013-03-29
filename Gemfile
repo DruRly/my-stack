@@ -33,7 +33,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
-gem 'factory_girl'
+gem "factory_girl_rails", "~> 4.0"
 
 group :test, :development do
   gem "rspec-rails", "~> 2.0"

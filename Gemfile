@@ -13,8 +13,6 @@ gem 'vcr'
 
 gem 'foreman'
 
-gem 'haml-rails'
-
 gem 'pry-rails'
 
 gem 'pry'
